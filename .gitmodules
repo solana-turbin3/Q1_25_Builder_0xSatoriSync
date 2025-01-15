@@ -1,0 +1,9 @@
+[submodule "turbine-ts-prereq"]
+	path = turbine-ts-prereq
+	url = https://github.com/0xSatoriSync/turbine-ts-prereq.git
+[submodule "turbine-rs-prereq"]
+	path = turbine-rs-prereq
+	url = https://github.com/0xSatoriSync/turbine-rs-prereq.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/0xSatoriSync/solana-starter.git
